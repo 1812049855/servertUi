@@ -1,0 +1,38 @@
+[Header Info R0]
+good:14321
+os fail:32
+idd/leakage:231
+bist/mbist:323
+scan:562
+t589 pll:32
+t575 hdmi:312
+ethernet:312
+t580 efuse write fail:312
+audio/saradc/vdac:3213
+t580 func:3213
+
+[Header Info R0.1]
+good:14321
+os fail:32
+idd/leakage:231
+bist/mbist:323
+scan:562
+t589 pll:32
+t575 hdmi:312
+ethernet:312
+t580 efuse write fail:312
+audio/saradc/vdac:3213
+t580 func:3213
+
+[Header Info R1]
+good:14321
+os fail:32
+idd/leakage:231
+bist/mbist:323
+scan:562
+t589 pll:32
+t575 hdmi:312
+ethernet:312
+t580 efuse write fail:312
+audio/saradc/vdac:3213
+t580 func:3213

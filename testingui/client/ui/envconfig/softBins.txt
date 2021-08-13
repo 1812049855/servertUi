@@ -1,0 +1,122 @@
+[Header Info R0]
+good:14321
+cont_gnd:32
+cont_gnd_cap:231
+cont_vdd:323
+cont_vdd_cap:562
+power_short_gnd:32
+idd_all:312
+t550_input_only:312
+t550_output_only:312
+t550_hiz_only_H:3213
+bist_all:3213
+bist_rom1:14321
+t1323_400M:32
+t1323_500M:231
+a9_atspeed_scan fail:323
+a9_stuckat_scan fail:562
+mali_clk:32
+fullchip:312
+pll m1 lock:312
+pll m1 cap:312
+pll m2 cap:3213
+t575_ch0:3213
+t575_ch1:14321
+t575_ck:32
+t575_dc H:231
+t575_dc L:323
+t1216_enet_bist:562
+t1217_enet_bist:32
+enetdc_42 fail:312
+t580_efuse fail:312
+t580_usbbist fail:312
+t580_clk_tst_rst fail:3213
+t580_ddr fail:3213
+t580_smp fail:14321
+write_index2 fail:32
+write_index7 fail:231
+write_index0 2nd fail:323
+t543_cvbs_linear fail:562
+audio fail:32
+
+[Header Info R0.1]
+good:14321
+cont_gnd:32
+cont_gnd_cap:231
+cont_vdd:323
+cont_vdd_cap:562
+power_short_gnd:32
+idd_all:312
+t550_input_only:312
+t550_output_only:312
+t550_hiz_only_H:3213
+bist_all:3213
+bist_rom1:14321
+t1323_400M:32
+t1323_500M:231
+a9_atspeed_scan fail:323
+a9_stuckat_scan fail:562
+mali_clk:32
+fullchip:312
+pll m1 lock:312
+pll m1 cap:312
+pll m2 cap:3213
+t575_ch0:3213
+t575_ch1:14321
+t575_ck:32
+t575_dc H:231
+t575_dc L:323
+t1216_enet_bist:562
+t1217_enet_bist:32
+enetdc_42 fail:312
+t580_efuse fail:312
+t580_usbbist fail:312
+t580_clk_tst_rst fail:3213
+t580_ddr fail:3213
+t580_smp fail:14321
+write_index2 fail:32
+write_index7 fail:231
+write_index0 2nd fail:323
+t543_cvbs_linear fail:562
+audio fail:32
+
+[Header Info R1]
+good:14321
+cont_gnd:32
+cont_gnd_cap:231
+cont_vdd:323
+cont_vdd_cap:562
+power_short_gnd:32
+idd_all:312
+t550_input_only:312
+t550_output_only:312
+t550_hiz_only_H:3213
+bist_all:3213
+bist_rom1:14321
+t1323_400M:32
+t1323_500M:231
+a9_atspeed_scan fail:323
+a9_stuckat_scan fail:562
+mali_clk:32
+fullchip:312
+pll m1 lock:312
+pll m1 cap:312
+pll m2 cap:3213
+t575_ch0:3213
+t575_ch1:14321
+t575_ck:32
+t575_dc H:231
+t575_dc L:323
+t1216_enet_bist:562
+t1217_enet_bist:32
+enetdc_42 fail:312
+t580_efuse fail:312
+t580_usbbist fail:312
+t580_clk_tst_rst fail:3213
+t580_ddr fail:3213
+t580_smp fail:14321
+write_index2 fail:32
+write_index7 fail:231
+write_index0 2nd fail:323
+t543_cvbs_linear fail:562
+audio fail:32

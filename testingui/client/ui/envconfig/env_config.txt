@@ -1,0 +1,66 @@
+[server_data_IP]
+server_data_IP = 172.16.200.31
+server_data_user = user
+server_data_password = user
+
+[server_program_IP]
+server_pgm_IP = 172.16.204.114
+server_pgm_user = test
+server_pgm_password = test
+
+[project_password]
+project_password = AAA
+
+
+[main path]
+Local_dlog_path = C:\datalog\
+local_prog_path = C:\Devices\
+server_dlog_path = \\
+server_prog_path = \J750\product\
+server_mes_path =\MESFile\meslog\
+server_password_path = \password\
+
+[ui_control_flag]
+ui_clear_pgm_flag = 1
+start_clear_pgm_flag = 1
+exit_clear_pgm_flag = 1
+
+[manual_keyin_control]
+ManualInputTimeGap = 30
+
+
+[alarm_control_flag]
+alarm_M01_flag = 0
+alarm_M02_flag = 0
+alarm_M03_flag = 0
+alarm_M04_flag = 0
+alarm_M05_flag = 0
+alarm_M06_flag = 0
+alarm_M07_flag = 0
+alarm_M08_flag = 0
+alarm_M09_flag = 0
+alarm_M10_flag = 0
+alarm_M11_flag = 0
+alarm_M12_flag = 0
+alarm_M13_flag = 0
+alarm_M14_flag = 0
+alarm_O01_flag = 1
+alarm_O02_flag = 1
+alarm_O03_flag = 1
+alarm_O04_flag = 1
+alarm_O05_flag = 1
+alarm_O06_flag = 1
+alarm_O07_flag = 1
+alarm_O08_flag = 1
+alarm_O09_flag = 1
+alarm_O10_flag = 1
+alarm_O11_flag = 1
+alarm_O12_flag = 1
+alarm_O13_flag = 1
+alarm_O14_flag = 1
+alarm_U01_flag = 0
+alarm_U02_flag = 0
+alarm_U03_flag = 0
+alarm_U04_flag = 0
+alarm_U05_flag = 0
+alarm_U06_flag = 0

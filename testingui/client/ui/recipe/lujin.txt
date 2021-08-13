@@ -1,0 +1,10 @@
+
+
+local_summary_filepath_temp= D:\datalog\TempData\  datalog_name_rule_5
+
+local_log_filepath_temp = D:\datalog\TempData\  datalog_name_rule_6
+
+local_stdf_filepath_temp = D:\datalog\TempData\   datalog_name_rule_4
+
+
+

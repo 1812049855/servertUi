@@ -1,0 +1,4 @@
+[socket_port]
+socket_host = 127.0.0.1
+socket_port=9999
+socket_name = ui测试
